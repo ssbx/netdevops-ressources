@@ -1,0 +1,3 @@
+- <https://developer.cisco.com/docs/network-automation-delivery-model/cicd/#why-cicd>
+- <https://devops.com/a-full-pipeline-ci-cd-for-network-automation-and-orchestration/>
+- <https://www.coursera.org/learn/devops-for-network-automation-netdevops>
